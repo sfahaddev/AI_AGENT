@@ -46,7 +46,10 @@ Enter your research query when prompted. The assistant will search, summarize, a
 
 ## Demo Video
 
-*A short video demonstrating this project will be added here.*
+
+https://github.com/user-attachments/assets/4bd6ea0c-de1e-4c14-909c-816a1f2d2462
+
+
 
 ---
 
